@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app
+web: gunicorn Ken_folio.wsgi --log-file -
