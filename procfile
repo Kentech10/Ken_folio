@@ -1,2 +1,1 @@
-web: gunicorn CCMS.wsgi --log-file -
-web: bundle exec rails server -p $PORT
+web: gunicorn wsgi:app
