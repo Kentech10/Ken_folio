@@ -8,8 +8,8 @@ def index(request):
     dest1 = Destination()
     dest1.name = 'Computer Engineer'
     dest1.text = 'Designs, and manages computer hardware and software systems issues, Kentech can work on any type of computer system, desktop, laptop, pads e.t.c'
-    dest1.about_me = 'I have just over a year of expirence as a  software Engineer with Netexcel systems and  technology. In this short time there i have already contributed to over a dozen of projects and assisted in managing one project for one of the firm in long-time client'
-    dest1.about_me2 = 'Prior to this role, I completed a two-year internship with Netexcel Systems and Technology, where I honor my web app development skills. Ideally, I would like to continue to specialize in mobile software engineering, an area where I know your firm excels'
+    dest1.about_me = 'I have just over a year of expirence as a  software Engineer with Netexcel systems and  technology. In this short time i have already contributed to over a dozen of projects and assisted in managing one project for one of the firm in long-time client'
+    dest1.about_me2 = 'Prior to this role, I completed a two-year internship with Netexcel Systems and Technology, where I honor my web app development skills. Ideally, I would like to continue to specialize in software engineering, an area where I know your firm excels'
     dest1.about_me3 ="Also an expirenced computer Engineer with 3years working expirence with purechem industrial limited in which am able to use my engineering skills to impact and impriove the organization growth."
     dest1.blog = 'Blog'
     dest1.blog2 = 'Get the latest news around the globe here.'
